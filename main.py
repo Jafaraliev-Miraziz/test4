@@ -15,3 +15,4 @@ def reput(soz: str):
 
 print(reput("Python"))
 print("Java hot milk")
+print("Max speed")
