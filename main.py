@@ -12,6 +12,9 @@ print(salom("Alex"))
 def reput(soz: str):
   return soz[::-1]
 
+def qosh():
+  return 2
+
 
 print(reput("Python"))
 print("Java hot milk")
