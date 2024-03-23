@@ -1,0 +1,1 @@
+print("Nimadir o'xshamadi!")
